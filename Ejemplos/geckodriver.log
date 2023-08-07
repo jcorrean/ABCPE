@@ -2149,3 +2149,93 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1691378187118	geckodriver	INFO	Listening on 127.0.0.1:50199
+1691378187622	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenMt8AV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691378188256	Marionette	INFO	Marionette enabled
+1691378188362	Marionette	INFO	Listening on port 36669
+WebDriver BiDi listening on ws://127.0.0.1:47779
+Read port: 36669
+1691378188545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47779/devtools/browser/66ad7cbd-0f26-48a0-be9c-59bc58ecef6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript error: https://www.uwinnipeg.ca/graduate-studies/graduate-programs/index.html, line 579: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval, line 6415: Script terminated by timeout at:
+n@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:24411
+J.prototype.U</<@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:35479
+N5@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:18298
+F3@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:219
+K@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:562
+B@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:11605
+@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:34795
+tW@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:7856
+D4.VjS_/<@https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval:6415:37209
+cl.prototype.vZ@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:7853:150
+g.k.y_@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:9737:32
+g.k.invoke@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:9726:64
+ZKa@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:4255:47
+g.bLa/a.c1a@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:4260:276
+g.cLa@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:4263:167
+g.k.rQ@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:11665:137
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:11561:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:9780:62
+xS/a.state.j[b]@https://www.youtube.com/s/player/f98908d1/player_ias.vflset/en_US/base.js:4303:53
+Kw/<@https://www.youtube.com/s/player/f98908d1/www-embed-player.vflset/www-embed-player.js:1782:106
+Ww@https://www.youtube.com/s/player/f98908d1/www-embed-player.vflset/www-embed-player.js:1818:46
+$w<@https://www.youtube.com/s/player/f98908d1/www-embed-player.vflset/www-embed-player.js:1825:183
+Hk/<@https://www.youtube.com/s/player/f98908d1/www-embed-player.vflset/www-embed-player.js:844:63
+
+JavaScript warning: https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval line 4614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://www.google.com/js/th/xjGJsWQcw7a75uMOZzli3G6NfqTxNtUGx8TIPKXR2T4.js line 2 > eval line 4270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.uwinnipeg.ca."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.uwinnipeg.ca."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oucqa.ca."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://oucqa.ca."
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+JavaScript warning: resource://pdf.js/web/viewer.js, line 6245: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.js:6245:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.js:6159:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.js:6187:12
+_pageHide@resource://pdf.js/web/viewer.js:6340:12
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-VE6WM5W4CD&l=dataLayer&cx=c, line 488: Script terminated by timeout at:
+aa.wh@https://www.googletagmanager.com/gtag/js?id=G-VE6WM5W4CD&l=dataLayer&cx=c:488:89
+get@https://www.googletagmanager.com/gtag/js?id=G-VE6WM5W4CD&l=dataLayer&cx=c:486:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-VE6WM5W4CD&l=dataLayer&cx=c:486:87
+aa.Ak/c/<@https://www.googletagmanager.com/gtag/js?id=G-VE6WM5W4CD&l=dataLayer&cx=c:486:412
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-3RPGL0TPXZ&cx=c&_slc=1, line 372: Script terminated by timeout at:
+Mv.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-3RPGL0TPXZ&cx=c&_slc=1:372:28
+QE/<@https://www.googletagmanager.com/gtag/js?id=G-3RPGL0TPXZ&cx=c&_slc=1:485:117
+aa.Ak/<@https://www.googletagmanager.com/gtag/js?id=G-3RPGL0TPXZ&cx=c&_slc=1:437:126
+aa.Ak/c/<@https://www.googletagmanager.com/gtag/js?id=G-3RPGL0TPXZ&cx=c&_slc=1:436:420
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
